@@ -1,0 +1,2 @@
+../Core/Src/Message_process.c:20:9:Msg_process	32	static
+../Core/Src/Message_process.c:47:9:recData_check	24	static

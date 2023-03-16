@@ -1,0 +1,11 @@
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h:1553:26:LL_I2C_IsActiveFlag_TXE	16	static
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h:1579:26:LL_I2C_IsActiveFlag_RXNE	16	static
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h:1618:26:LL_I2C_IsActiveFlag_STOP	16	static
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h:1775:22:LL_I2C_ClearFlag_STOP	16	static
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h:2134:22:LL_I2C_HandleTransfer	24	static
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h:2219:25:LL_I2C_ReceiveData8	16	static
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h:2231:22:LL_I2C_TransmitData8	16	static
+../Core/Src/Sensor.c:17:6:I2C_Write	24	static
+../Core/Src/Sensor.c:38:6:I2C_Read	40	static
+../Core/Src/Sensor.c:66:6:I2C_WriteMulti	40	static
+../Core/Src/Sensor.c:84:6:I2C_Read_Sensor	16	static

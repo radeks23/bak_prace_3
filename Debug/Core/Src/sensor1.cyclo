@@ -1,0 +1,2 @@
+sensor1.c:14:8:initalize_sensor_struct	1
+sensor1.c:30:6:I2C_Read_select1	1
